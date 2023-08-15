@@ -1,0 +1,92 @@
+[
+  {
+    "image": "https://i.ibb.co/3S1BjYS/Corsair-Vengeance-RGB-Pro.jpg",
+    "productName": "Corsair Vengeance RGB Pro",
+    "category": "ram",
+    "status": "In Stock",
+    "price": 129.99,
+    "description": "High-performance DDR4 RAM with customizable RGB lighting.",
+    "keyFeatures": [
+      "Corsair",
+      "Vengeance RGB Pro",
+      "DDR4",
+      "16GB (2 x 8GB)",
+      "3200MHz"
+    ],
+    "individualRating": 4.6,
+    "averageRating": 4.5,
+    "reviews": ["Stunning RGB effects!", "Reliable performance."]
+  },
+  {
+    "image": "https://i.ibb.co/cyR5GsW/G-Skill-Ripjaws-V.jpg",
+    "productName": "G.Skill Ripjaws V",
+    "category": "ram",
+    "status": "In Stock",
+    "price": 99.95,
+    "description": "Popular DDR4 RAM for gaming and multitasking.",
+    "keyFeatures": [
+      "G.Skill",
+      "Ripjaws V",
+      "DDR4",
+      "32GB (2 x 16GB)",
+      "3600MHz"
+    ],
+    "individualRating": 4.3,
+    "averageRating": 4.2,
+    "reviews": ["Great price-to-performance ratio.", "Handles heavy workloads."]
+  },
+  {
+    "image": "https://i.ibb.co/ThzCZWc/Crucial-Ballistix-Sport-LT.jpg",
+    "productName": "Crucial Ballistix Sport LT",
+    "category": "ram",
+    "status": "Out of stock",
+    "price": 79.99,
+    "description": "Affordable DDR4 RAM with sleek design.",
+    "keyFeatures": [
+      "Crucial",
+      "Ballistix Sport LT",
+      "DDR4",
+      "16GB (2 x 8GB)",
+      "3000MHz"
+    ],
+    "individualRating": 3.8,
+    "averageRating": 3.6,
+    "reviews": ["Decent RAM for the price.", "Aesthetically pleasing."]
+  },
+  {
+    "image": "https://i.ibb.co/r0BPW3J/Kingston-Hyper-X-Fury.jpg",
+    "productName": "Kingston HyperX Fury",
+    "category": "ram",
+    "status": "In Stock",
+    "price": 109.0,
+    "description": "Reliable DDR4 RAM with understated design.",
+    "keyFeatures": [
+      "Kingston",
+      "HyperX Fury",
+      "DDR4",
+      "32GB (2 x 16GB)",
+      "2666MHz"
+    ],
+    "individualRating": 4.2,
+    "averageRating": 4.0,
+    "reviews": ["Solid performance.", "No-nonsense design."]
+  },
+  {
+    "image": "https://i.ibb.co/gP52WCF/Team-T-Force-Delta-RGB.jpg",
+    "productName": "Team T-Force Delta RGB",
+    "category": "ram",
+    "status": "In Stock",
+    "price": 119.0,
+    "description": "RGB-enhanced DDR4 RAM with unique heat spreader design.",
+    "keyFeatures": [
+      "Team",
+      "T-Force Delta RGB",
+      "DDR4",
+      "16GB (2 x 8GB)",
+      "3200MHz"
+    ],
+    "individualRating": 4.5,
+    "averageRating": 4.4,
+    "reviews": ["Impressive lighting effects.", "Good performance overall."]
+  }
+]

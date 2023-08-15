@@ -1,0 +1,62 @@
+[
+  {
+    "image": "https://i.ibb.co/hXKqKcD/EVGA-Supernova-750-G5.jpg",
+    "productName": "EVGA Supernova 750 G5",
+    "category": "power-supply-unit",
+    "status": "In Stock",
+    "price": 129.99,
+    "description": "750W 80+ Gold certified modular power supply.",
+    "keyFeatures": ["EVGA", "Supernova 750 G5", "750W", "80+ Gold", "Modular"],
+    "individualRating": 4.7,
+    "averageRating": 4.6,
+    "reviews": ["Reliable power delivery.", "Modular cables are convenient."]
+  },
+  {
+    "image": "https://i.ibb.co/3RL07QK/Corsair-RM850x.jpg",
+    "productName": "Corsair RM850x",
+    "category": "power-supply-unit",
+    "status": "In Stock",
+    "price": 149.95,
+    "description": "850W 80+ Gold certified fully modular power supply.",
+    "keyFeatures": ["Corsair", "RM850x", "850W", "80+ Gold", "Fully Modular"],
+    "individualRating": 4.8,
+    "averageRating": 4.7,
+    "reviews": ["Excellent build quality.", "Handles high-end systems."]
+  },
+  {
+    "image": "https://i.ibb.co/pr2j5Dy/Seasonic-Focus-GX-650.jpg",
+    "productName": "Seasonic Focus GX-650",
+    "category": "power-supply-unit",
+    "status": "Out of stock",
+    "price": 109.99,
+    "description": "650W 80+ Gold certified power supply with hybrid fan control.",
+    "keyFeatures": [
+      "Seasonic",
+      "Focus GX-650",
+      "650W",
+      "80+ Gold",
+      "Hybrid Fan"
+    ],
+    "individualRating": 4.5,
+    "averageRating": 4.4,
+    "reviews": ["Efficient and quiet operation.", "Cables are well-made."]
+  },
+  {
+    "image": "https://i.ibb.co/ckXrbkx/Thermaltake-Toughpower-Grand-RGB-750-W.jpg",
+    "productName": "Thermaltake Toughpower Grand RGB 750W",
+    "category": "power-supply-unit",
+    "status": "In Stock",
+    "price": 139.0,
+    "description": "750W 80+ Gold certified power supply with customizable RGB lighting.",
+    "keyFeatures": [
+      "Thermaltake",
+      "Toughpower Grand RGB 750W",
+      "750W",
+      "80+ Gold",
+      "RGB Lighting"
+    ],
+    "individualRating": 4.6,
+    "averageRating": 4.5,
+    "reviews": ["RGB effects are stunning.", "Stable power output."]
+  }
+]
