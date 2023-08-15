@@ -20,7 +20,6 @@ const readingStatus_service_1 = require("./readingStatus.service");
 const changeStatus = (0, catchAsync_1.default)((req, res) => __awaiter(void 0, void 0, void 0, function* () {
     const { id, status } = req.query;
     const user = req.headers.authorization;
-    console.log(user, id, status);
     yield readingStatus_service_1.ReadingStatusService.changeStatus(id, status, user);
     (0, sendResponse_1.default)(res, {
         statusCode: http_status_1.default.OK,
